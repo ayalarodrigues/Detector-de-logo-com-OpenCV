@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../apple_teste/20150224183456-31390.jpg'>
+    <box top='70' left='422' width='42' height='45'/>
+    <box top='165' left='223' width='27' height='25'/>
+  </image>
+  <image file='../apple_teste/220px-IPhone_6s_rear,_Space_Gray.jpg'>
+    <box top='67' left='121' width='24' height='22'/>
+  </image>
+  <image file='../apple_teste/Apple-6s.jpg'>
+    <box top='205' left='296' width='63' height='71'/>
+    <box top='196' left='600' width='62' height='68'/>
+  </image>
+  <image file='../apple_teste/Apple-iPhone-6s-Plus-iPhone-6s-Reuters-1024-768.jpg'>
+    <box top='318' left='475' width='37' height='39'/>
+    <box top='383' left='656' width='35' height='37'/>
+  </image>
+  <image file='../apple_teste/Apple_iPhone_6_15233472568-1024x683.jpg'>
+    <box top='175' left='413' width='61' height='73'/>
+  </image>
+  <image file='../apple_teste/P6.jpg'>
+    <box top='124' left='227' width='41' height='48'/>
+  </image>
+  <image file='../apple_teste/apple_iphone_6s_iphone_6s_plus_reuters_2.jpg'>
+    <box top='265' left='468' width='38' height='47'/>
+  </image>
+  <image file='../apple_teste/gold_iphone6plust.jpg'>
+    <box top='252' left='228' width='85' height='74'/>
+  </image>
+  <image file='../apple_teste/iPhone-6-featured-1.jpg'>
+    <box top='186' left='323' width='83' height='99'/>
+  </image>
+  <image file='../apple_teste/iphone-6-3-1.jpg'>
+    <box top='88' left='225' width='33' height='39'/>
+  </image>
+  <image file='../apple_teste/iphone_6_rear.jpg'>
+    <box top='299' left='660' width='92' height='110'/>
+  </image>
+  <image file='../apple_teste/s-l800.jpg'>
+    <box top='228' left='277' width='62' height='77'/>
+  </image>
+</images>
+</dataset>
